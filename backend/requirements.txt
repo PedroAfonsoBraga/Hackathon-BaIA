@@ -1,0 +1,4 @@
+fastapi==0.136.1
+joblib==1.2.0
+numpy==1.24.2
+pandas==1.5.3
